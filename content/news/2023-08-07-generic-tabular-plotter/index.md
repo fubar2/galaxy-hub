@@ -1,5 +1,5 @@
 ---
-title: "Generic scatter plots for any Galaxy tabular data"
+title: "Scatter plots for any Galaxy tabular data"
 date: "2023-08-07"
 authors: Ross Lazarus
 authors_structured:
@@ -67,7 +67,7 @@ transformed evalues seem highly collinear with bitscores, in the few samples tes
 ### Installation for testing
 
 The [plotly_tabular_plot](https://toolshed.g2.bx.psu.edu/repository/browse_repository?id=a4961ff57ce13935) tool, owned by fubar,
-is available for testing, in the main Galaxy Toolshed.
-It is very new and so not suitable for production use yet. Please let me know if it works for you at the [github repository](https://github.com/fubar2/plotly_tabular_tool).
+is available for testing, in the main Galaxy Toolshed. It is very new and so not recommended for production use yet.
+Please let me know if it works for you at the [github repository](https://github.com/fubar2/plotly_tabular_tool).
 
 
